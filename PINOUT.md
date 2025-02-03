@@ -22,7 +22,7 @@
 |Function|RPi Pico*|Black Pill|
 |--------|---------|----------|
 |CAN-TX|gpio27|PA7|
-|CAN-RX||gpio28|PB0|
+|CAN-RX|gpio28|PB0|
 
 ## DC motors
 
