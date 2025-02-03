@@ -1,0 +1,2 @@
+- Add a fuse on the power input
+- Write the pinout documentation

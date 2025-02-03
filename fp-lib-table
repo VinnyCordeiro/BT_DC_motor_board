@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Pico")(type "KiCad")(uri "${KIPRJMOD}/Pico.pretty")(options "")(descr ""))
+  (lib (name "STM32_BlackPill")(type "KiCad")(uri "${KIPRJMOD}/STM32_BlackPill.pretty")(options "")(descr ""))
+)
