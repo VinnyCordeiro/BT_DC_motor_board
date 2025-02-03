@@ -1,3 +1,3 @@
-- Add a fuse on the power input
+- Add a fuse on the power input: DONE!
 - Write the pinout documentation
 - Write an example config file

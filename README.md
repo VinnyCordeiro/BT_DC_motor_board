@@ -14,7 +14,7 @@ This board was made with modularity in mind, so you'll need to buy those modules
 |Component|No. Needed|Comment|Sourcing URL|
 |---------|----------|-------|-------|
 |5.08mm Screw Terminal|1|Power Input|https://www.lcsc.com/product-detail/Screw-span-style-background-color-ff0-terminal-span_MAX-MX129-5-08-02P-GN01-Cu-Y-A_C5188485.html|
-|Automotive Mini-Blade Fuse Holder|1|Takes ATO Fuses (for future board revision)|https://www.lcsc.com/product-detail/Fuse-Holders_XFCN-XF-506P_C492610.html|
+|Automotive Mini-Blade Fuse Holder|1|Takes ATO Fuses|https://www.lcsc.com/product-detail/Fuse-Holders_XFCN-XF-506P_C492610.html|
 |DC-DC 3A buck converter|1|Pick the 5V version|https://www.aliexpress.com/item/1005007031557776.html|
 |LDO 800MA DC 5V to 3.3V buck converter|1|They come with right angle pin headers, you have to swap for straight pins|https://www.aliexpress.com/item/1005007792706354.html|
 |DRV8837 2 Way DC H-Bridge|2|Pick the version with 2 drivers on the board|https://www.aliexpress.com/item/1005007587993921.html|
@@ -25,7 +25,7 @@ This board was made with modularity in mind, so you'll need to buy those modules
 |Pin socket 4 pins|1|For the CAN transceiver module|https://www.lcsc.com/product-detail/Female-Headers_BOOMELE-Boom-Precision-Elec-2-54-1-4P_C2718488.html|
 |Pin socket 8 pins|4|For the DRV8837 modules|https://www.lcsc.com/product-detail/Female-Headers_BOOMELE-Boom-Precision-Elec-2-54-1-8P_C27438.html|
 |Pin socket 20 pins|2|For the MCU|https://www.lcsc.com/product-detail/Female-Headers_Megastar-ZX-PM2-54-1-20PY_C7499336.html|
-|Pin header|1|Only needed if using CAN bus _and_ this will be the last device on it|https://www.lcsc.com/product-detail/Pin-Headers_XFCN-PZ254V-11-02P_C492401.html|
+|Pin header|1x 2 pins|Only needed if using CAN bus _and_ this will be the last device on it|https://www.lcsc.com/product-detail/Pin-Headers_XFCN-PZ254V-11-02P_C492401.html|
 |Schottky diode|2|You can reallistically use whatever through hole Schottky diode you have, even the BAT85 that used to be used on magnetic probes on old VORON releases|https://www.lcsc.com/product-detail/Schottky-Diodes_STMicroelectronics-BAT48_C283476.html|
 |120 ohms resistor|1|Only needed if using CAN bus _and_ this will be the last device on it|https://www.lcsc.com/product-detail/Through-Hole-Resistors_Vishay-Intertech-MBB02070C1200FCT00_C1364429.html|
 |Switch|1|For selecting USB ou buck converter power|https://www.lcsc.com/product-detail/Slide-Switches_E-Switch-EG1224_C273395.html|
