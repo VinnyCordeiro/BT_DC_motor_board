@@ -1,6 +1,8 @@
 # BoxTurtle DC motors standalone board
 A standalone board to control the DC motors of the BoxTurtle.
 
+![plot](./BoxTurtle_DC_motors_RPiPico.png)
+
 ## Why
 The [AFC-Lite](https://github.com/xbst/AFC-Lite) is the preferred board for the BoxTurtle, but it is quite expensive and is only available on xbst's store (which is fair). However, many of us (myself included) already have a stash of old 3D printer controller boards to take care of the stepper motors, so only the DC motors were left without a standalone solution to control them. This board is an attempt to solve this situation.
 
