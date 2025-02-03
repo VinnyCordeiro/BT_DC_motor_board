@@ -1,3 +1,9 @@
-- 2025-02-01: Revision 1.0; board only using Raspberry Pi Pico as the MCU
-- 2025-02-02: Revision 1.1; added CAN bus support by adding a connector for a CAN transceiver module and additional support circuitry / Revision 2.0; added support for the Black Pill STM32F401 MCU, added circuitry to select between USB power and buck converter power
-- 2025-02-03: Revision 2.1; first publicly available revision, made some corrections on silkscreen, added the necessary CERN Licence information / Revision 2.2; added a fuse, created file documenting the pinout / Revision 2.3; corrected a flaw that could blow a USB port when the board tries to power the DC motors from USB
+- 2025-02-01:
+  - Revision 1.0: board only using Raspberry Pi Pico as the MCU
+- 2025-02-02:
+  - Revision 1.1: added CAN bus support by adding a connector for a CAN transceiver module and additional support circuitry
+  - Revision 2.0: added support for the Black Pill STM32F401 MCU, added circuitry to select between USB power and buck converter power
+- 2025-02-03:
+  - Revision 2.1: first publicly available revision, made some corrections on silkscreen, added the necessary CERN Licence information
+  - Revision 2.2: added a fuse, created file documenting the pinout
+  - Revision 2.3: corrected a flaw that could blow a USB port when the board tries to power the DC motors from USB, formatted CHANGES.md a little better
