@@ -25,7 +25,7 @@ This board was made with modularity in mind, so you'll need to buy those modules
 |Pin socket 4 pins|1|For the CAN transceiver module|https://www.lcsc.com/product-detail/Female-Headers_BOOMELE-Boom-Precision-Elec-2-54-1-4P_C2718488.html|
 |Pin socket 8 pins|4|For the DRV8837 modules|https://www.lcsc.com/product-detail/Female-Headers_BOOMELE-Boom-Precision-Elec-2-54-1-8P_C27438.html|
 |Pin socket 20 pins|2|For the MCU|https://www.lcsc.com/product-detail/Female-Headers_Megastar-ZX-PM2-54-1-20PY_C7499336.html|
-|Pin header|1x 2 pins|Only needed if using CAN bus _and_ this will be the last device on it|https://www.lcsc.com/product-detail/Pin-Headers_XFCN-PZ254V-11-02P_C492401.html|
+|Pin header|1|Only needed if using CAN bus _and_ this will be the last device on it|https://www.lcsc.com/product-detail/Pin-Headers_XFCN-PZ254V-11-02P_C492401.html|
 |Schottky diode|2|You can reallistically use whatever through hole Schottky diode you have, even the BAT85 that used to be used on magnetic probes on old VORON releases|https://www.lcsc.com/product-detail/Schottky-Diodes_STMicroelectronics-BAT48_C283476.html|
 |120 ohms resistor|1|Only needed if using CAN bus _and_ this will be the last device on it|https://www.lcsc.com/product-detail/Through-Hole-Resistors_Vishay-Intertech-MBB02070C1200FCT00_C1364429.html|
 |Switch|1|For selecting USB ou buck converter power|https://www.lcsc.com/product-detail/Slide-Switches_E-Switch-EG1224_C273395.html|
@@ -39,7 +39,7 @@ This board was made with modularity in mind, so you'll need to buy those modules
 
 ## Acknowledgements
 - [Robert Klotz](https://github.com/ArmoredTurtle), for creating the amazing BoxTurtle project (I'm anxiously awaiting for the 8-Track!);
-- [xbst]((https://github.com/xbst), for designing the AFC-Lite. While the design files aren't available as I write, the schematics is public so I used them to create this board as well. Also, his mild distaste for the RP2040 MCUs on Klipper projects made me add support for a STM32 MCU board as well, which leads to;
+- [xbst](https://github.com/xbst), for designing the AFC-Lite. While the design files aren't available as I write, the schematics is public so I used them to create this board as well. Also, his mild distaste for the RP2040 MCUs on Klipper projects made me add support for a STM32 MCU board as well, which leads to;
 - comradef191 and their [NyoomiesKME board](https://github.com/comradef191/NyoomiesKME), for the idea of adding support for both the Raspberry Pi Pico and the Black Pill STM32F401 MCU modules;
 - Sanity Agathion on the [VORON Discord server](https://discord.gg/voron), for the tip that made me add the CAN bus module support;
 - and [clee](https://github.com/clee): you know what you did.
