@@ -11155,6 +11155,17 @@
 			(pintype "passive")
 			(uuid "61272297-4723-4830-8129-b0f47f0ac236")
 		)
+		(model "${KIPRJMOD}/Library/3544-2_FuseHolder.STEP"
+			(offset
+				(xyz -1.9 -0.75 2.25)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "kibuzzard-679EE0F2"
 		(layer "F.Cu")
@@ -11163,7 +11174,7 @@
 		(descr "Generated with KiBuzzard")
 		(tags "kb_params=eyJBbGlnbm1lbnRDaG9pY2UiOiAiTGVmdCIsICJDYXBMZWZ0Q2hvaWNlIjogIlsiLCAiQ2FwUmlnaHRDaG9pY2UiOiAiXSIsICJGb250Q29tYm9Cb3giOiAiVWJ1bnR1TW9uby1CIiwgIkhlaWdodEN0cmwiOiAyLjUsICJMYXllckNvbWJvQm94IjogIkYuU2lsa1MiLCAiTGluZVNwYWNpbmdDdHJsIjogMC45LCAiTXVsdGlMaW5lVGV4dCI6ICIyNFYiLCAiUGFkZGluZ0JvdHRvbUN0cmwiOiAxLjAsICJQYWRkaW5nTGVmdEN0cmwiOiAyLjUsICJQYWRkaW5nUmlnaHRDdHJsIjogMi41LCAiUGFkZGluZ1RvcEN0cmwiOiAxLjAsICJXaWR0aEN0cmwiOiAwLjAsICJhZHZhbmNlZENoZWNrYm94IjogdHJ1ZSwgImlubGluZUZvcm1hdFRleHRib3giOiBmYWxzZSwgImxpbmVvdmVyU3R5bGVDaG9pY2UiOiAiU3F1YXJlIiwgImxpbmVvdmVyVGhpY2tuZXNzQ3RybCI6IDF9")
 		(property "Reference" "kibuzzard-679EE0F2"
-			(at 0 -4.662836 360)
+			(at 0 -4.662836 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "08a5405f-e88b-4da6-83ae-fd4e47fa96df")
@@ -11175,7 +11186,7 @@
 			)
 		)
 		(property "Value" "G***"
-			(at 0 4.662836 360)
+			(at 0 4.662836 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "15d817c8-2144-42d3-a7a5-fee02a7ccc9d")
@@ -11187,7 +11198,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f125a0ae-4a20-41e4-ba0a-da7a9dfdc466")
@@ -11199,7 +11210,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ff1adc4e-30b1-4b8c-a01d-605084c608f2")
@@ -11211,7 +11222,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2364ee6a-af8d-49e0-be44-06dca43a386c")
