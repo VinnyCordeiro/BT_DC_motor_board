@@ -33,3 +33,4 @@ CAN,J15,PinSocket_1x04_P2.54mm_Vertical,,1
 BAT85,D2,D_DO-35_SOD27_P7.62mm_Horizontal,,1
 BAT85,D1,D_DO-35_SOD27_P7.62mm_Horizontal,,1
 Black Pill STM32F401,U2,STM32F401 Black Pill,,1
+Fuse_Small,F1,XF-506P,,1
