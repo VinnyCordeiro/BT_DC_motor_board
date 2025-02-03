@@ -31,8 +31,8 @@
 |Function|RPi Pico*|Black Pill|
 |--------|---------|----------|
 |SLP_1|gpio0|PB12|
-|DC1_1|gpio1||PB13|
-|DC2_1|gpio2||PB15|
+|DC1_1|gpio1|PB13|
+|DC2_1|gpio2|PB15|
 
 ### Motor 2
 
