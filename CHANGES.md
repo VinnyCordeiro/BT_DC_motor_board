@@ -18,3 +18,5 @@
     - corrected a flaw that could blow a USB port when the board tries to power the DC motors from USB
     - formatted CHANGES.md a little better
     - added a note informing that the design is still untested
+- 2025-02-04:
+  - added a tentative config file
