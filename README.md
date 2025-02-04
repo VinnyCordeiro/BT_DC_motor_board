@@ -1,6 +1,8 @@
 # BoxTurtle DC motors standalone board
 A standalone board to control the DC motors of the BoxTurtle.
 
+IMPORTANT NOTE: this design is still untested and being modified frequently as bugs/flaws are found. Do not order PCBs yet until we say it's safe!
+
 ![plot](./BoxTurtle_DC_motors_RPiPico.png)
 
 ## Why
