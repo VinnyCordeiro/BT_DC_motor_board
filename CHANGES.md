@@ -22,3 +22,4 @@
   - added a tentative config file
 - 2025-02-05:
   - corrected info about the fuse
+  - added fuse 3D model
