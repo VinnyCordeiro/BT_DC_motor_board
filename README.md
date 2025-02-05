@@ -19,6 +19,7 @@ This board was made with modularity in mind, so you'll need to buy those modules
 |---------|----------|-------|-------|
 |5.08mm Screw Terminal|1|Power Input|https://www.lcsc.com/product-detail/Screw-span-style-background-color-ff0-terminal-span_MAX-MX129-5-08-02P-GN01-Cu-Y-A_C5188485.html|
 |Automotive Mini-Blade Fuse Holder|1|Takes [Mini Automotive Fuses](https://www.keyelco.com/product.cfm/product_id/1376)|https://www.lcsc.com/product-detail/Fuse-Holders_XFCN-XF-506P_C492610.html|
+|10A Mini Automotive fuse|1|For circuit safety|https://www.lcsc.com/product-detail/Automotive-Fuses_Littelfuse-0297010-WXNV_C151094.html|
 |DC-DC 3A buck converter|1|Pick the 5V version|https://www.aliexpress.com/item/1005007031557776.html|
 |LDO 800MA DC 5V to 3.3V buck converter|1|They come with right angle pin headers, you have to swap for straight pins|https://www.aliexpress.com/item/1005007792706354.html|
 |DRV8837 2 Way DC H-Bridge|2|Pick the version with 2 drivers on the board|https://www.aliexpress.com/item/1005007587993921.html|
