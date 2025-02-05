@@ -20,3 +20,5 @@
     - added a note informing that the design is still untested
 - 2025-02-04:
   - added a tentative config file
+- 2025-02-05:
+  - corrected info about the fuse
