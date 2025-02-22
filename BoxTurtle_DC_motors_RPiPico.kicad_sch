@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "BoxTurtle DC motors standalone board")
-		(date "2025-02-03")
-		(rev "2.1")
+		(date "2025-02-22")
+		(rev "2.4")
 	)
 	(lib_symbols
 		(symbol "Connector:Screw_Terminal_01x02"
@@ -4311,7 +4311,7 @@
 		(uuid "d013e66f-aef8-4643-a9aa-ab536cb83d1f")
 	)
 	(no_connect
-		(at 48.26 50.8)
+		(at 48.26 83.82)
 		(uuid "dd0920cc-883b-4dda-ad2d-0a3f5fa7e4b7")
 	)
 	(no_connect
@@ -6091,6 +6091,18 @@
 		)
 		(uuid "1997c074-409c-4b63-9f1b-4c824f3c5031")
 	)
+	(text "Licensed under CERN-OHL-S v2"
+		(exclude_from_sim no)
+		(at 91.694 188.214 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 1.016)
+				(bold yes)
+			)
+		)
+		(uuid "24bea9d0-27cf-44b3-a143-a1f3eba5f24c")
+	)
 	(text "https://www.aliexpress.com/item/1005006438437964.html"
 		(exclude_from_sim no)
 		(at 235.966 33.528 0)
@@ -7570,7 +7582,7 @@
 	)
 	(global_label "SW6"
 		(shape input)
-		(at 48.26 83.82 0)
+		(at 48.26 50.8 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7580,7 +7592,7 @@
 		)
 		(uuid "a5f5102b-6ddf-4361-95cc-172ab05093a1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 55.1156 83.82 0)
+			(at 55.1156 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10388,7 +10400,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 237.49 43.18 0)
 			(effects
 				(font
