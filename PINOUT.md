@@ -9,7 +9,7 @@
 |3|gpio18|PA1|
 |4|gpio16|PC15|
 |5|gpio13|PB9|
-|6|gpio15|PC13|
+|6|gpio15|PB1|
 |7|gpio26|PA6|
 |8|gpio21|PA4|
 |9|gpio19|PA2|
