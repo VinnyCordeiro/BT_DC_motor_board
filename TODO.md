@@ -4,5 +4,5 @@
 - Write an example config file: DONE!
 
 2025-02-22:
-- Change terminal block for Mole Microfit 3.0 connector (still in study)
+- Change terminal block for Molex Microfit 3.0 connector (still in study)
  
