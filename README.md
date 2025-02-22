@@ -44,14 +44,16 @@ This board was made with modularity in mind, so you'll need to buy those modules
 - Mini Automotive fuse STEP model by Littelfuse, Inc.; obtained at https://www.littelfuse.com/products/fuses-overcurrent-protection/fuses/automotive-fuses/blade-fuses-shunt/mini/297/0297010-u
 
 ## Acknowledgements
-- [Robert Klotz](https://github.com/ArmoredTurtle), for creating the amazing BoxTurtle project (I'm anxiously awaiting for the 8-Track!);
-- [xbst](https://github.com/xbst), for designing the AFC-Lite. While the design files aren't available as I write, the schematics is public so I used them to create this board as well. Also, his mild distaste for the RP2040 MCUs on Klipper projects made me add support for a STM32 MCU board as well, which leads to;
-- comradef191 and their [NyoomiesKME board](https://github.com/comradef191/NyoomiesKME), for the idea of adding support for both the Raspberry Pi Pico and the Black Pill STM32F401 MCU modules;
-- Sanity Agathion on the [VORON Discord server](https://discord.gg/voron), for the tip that made me add the CAN bus module support;
-- [timmit99](https://github.com/timmit99/) and [Shammy](https://xrbunker.works), both also from the VORON Discord server, for the support and also for providing a 3D model for the fuse holder (just catch the ball next time, timmit99!);
+- [Robert Klotz](https://github.com/ArmoredTurtle) for creating the amazing BoxTurtle project (I'm anxiously awaiting for the 8-Track!);
+- [xbst](https://github.com/xbst) for designing the AFC-Lite. While the design files aren't available as I write, the schematics is public so I used them to create this board as well. Also, his mild distaste for the RP2040 MCUs on Klipper projects made me add support for a STM32 MCU board as well, which leads to;
+- comradef191 and their [NyoomiesKME board](https://github.com/comradef191/NyoomiesKME) for the idea of adding support for both the Raspberry Pi Pico and the Black Pill STM32F401 MCU modules;
+- Sanity Agathion on the [VORON Discord server](https://discord.gg/voron) for the tip that made me add the CAN bus module support;
+- [timmit99](https://github.com/timmit99/) and [Shammy](https://xrbunker.works), both also from the VORON Discord server, for the support and also for providing a 3D model for the fuse holder (just catch the ball next time, Tim!);
 - and [clee](https://github.com/clee): you know what you did.
 
 ## LICENSE
+Copyright Vinícius N. Cordeiro 2025
+
 This source describes Open Hardware and is licensed under the CERN-OHL-S v2 or any later version.
 You may redistribute and modify this source and make products using it under the terms of the CERN-OHL-S v2. (https://ohwr.org/cern_ohl_s_v2.txt)
 
