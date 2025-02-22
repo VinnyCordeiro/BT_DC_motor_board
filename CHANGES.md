@@ -23,3 +23,8 @@
 - 2025-02-05:
   - corrected info about the fuse
   - added fuse 3D model
+- 2025-02-22:
+  - Revision 2.4:
+    - bigger footprint for the CAN terminator resistor
+    - the diameter of the holes for the sockets that hold the Raspberry Pi Pico now matches the ones for the Black Pill for a snugger fit, that helps when soldering
+    - SW6 changed pin on the Black Pill, now being PB1; the previous pin is shared with the on-board LED and that could lead to strange behavior
