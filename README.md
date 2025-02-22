@@ -8,7 +8,7 @@ IMPORTANT NOTE: this design is still untested and being modified frequently as b
 ## Why
 The [AFC-Lite](https://github.com/xbst/AFC-Lite) is the preferred board for the BoxTurtle, but it is quite expensive and is only available on xbst's store (which is fair). However, many of us (myself included) already have a stash of old 3D printer controller boards to take care of the stepper motors, so only the DC motors were left without a standalone solution to control them. This board is an attempt to solve this situation.
 
-I designed the board to be as easy and cheap possible; with that in mind, here are the design constraints:
+I designed the board to be as easy and cheap as possible; with that in mind, here are the design constraints:
 - All components/modules must be through hole mounted: I have professional training in electronics and the tools so SMD isn't a problem, but this isn't true for most of the hobbyists; by using through hole components the soldering complexity barrier is lowered;
 - All modules are to be mounted on sockets: this opens some space on the board that would be otherwise unavailable. _DO NOT_ solder the modules directly on the board: not only you'll ruin the modularity of the design, you won't be able to install the power selection circuitry on the board (you may get away by soldering wires at the bottom side of the board for the switch, and solder the diodes at the bottom, but that's a bodge and shouldn't be used);
 - I added as much useful information on the board silkscreen as I could, with the exception of the pinout. This should help guiding how the components/modules must be mounted, so it's on you if you let the magic smoke out if mounting them the other way around.
