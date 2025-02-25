@@ -28,3 +28,6 @@
     - bigger footprint for the CAN terminator resistor
     - the diameter of the holes for the sockets that hold the Raspberry Pi Pico now matches the ones for the Black Pill for a snugger fit, that helps when soldering
     - SW6 changed pin on the Black Pill, now being PB1; the previous pin is shared with the on-board LED and that could lead to strange behavior
+- 2025-02-25:
+  - Revision 2.5:
+    - corrected the footprint for both the 24V to 5V and the DRV8837 modules
