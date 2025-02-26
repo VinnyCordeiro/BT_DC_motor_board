@@ -31,3 +31,4 @@
 - 2025-02-25:
   - Revision 2.5:
     - corrected the footprint for both the 24V to 5V and the DRV8837 modules
+    - added a source for a Raspberry Pi Pico 2 clone on the BOM
