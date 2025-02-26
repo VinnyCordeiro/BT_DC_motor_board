@@ -35,6 +35,7 @@ This board was made with modularity in mind, so you'll need to buy those modules
 |120 ohms resistor|1|Only needed if using CAN bus _and_ this will be the last device on it|https://www.lcsc.com/product-detail/Through-Hole-Resistors_Vishay-Intertech-MBB02070C1200FCT00_C1364429.html|
 |Switch|1|For selecting USB ou buck converter power|https://www.lcsc.com/product-detail/Slide-Switches_E-Switch-EG1224_C273395.html|
 |Raspberry Pi Pico, or...|1|MCU (Pick one)|https://www.aliexpress.com/item/1005003708090298.html|
+|Raspberry Pi Pico 2, or...|1|MCU (Pick one)|https://www.aliexpress.com/item/1005008117237405.html|
 |STM32F401 BlackPill|1|MCU (Pick one)|https://www.aliexpress.com/item/1005006127461676.html|
 
 ## Attributions
@@ -59,6 +60,6 @@ You may redistribute and modify this source and make products using it under the
 
 This source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN-OHL-S v2 for applicable conditions.
 
-Source location: https://github.com/VinnyCordeiro/BT_DC_motor_board
+Source Location: https://github.com/VinnyCordeiro/BT_DC_motor_board
 
 As per CERN-OHL-S v2 section 4, should You produce hardware based on this source, You must where practicable maintain the Source Location visible on the PCB.
