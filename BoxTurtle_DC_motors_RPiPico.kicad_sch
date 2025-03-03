@@ -9915,7 +9915,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "EG1224"
+		(property "Value" "K3-1204D"
 			(at 187.96 130.8099 90)
 			(effects
 				(font
@@ -9924,7 +9924,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_E-Switch_EG1224_SPDT_Angled"
+		(property "Footprint" "K3-1204D:K3-1204D"
 			(at 193.04 129.54 0)
 			(effects
 				(font
