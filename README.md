@@ -19,7 +19,7 @@ This board was made with modularity in mind, so you'll need to buy those modules
 |---------|----------|-------|-------|
 |5.08mm Screw Terminal|1|Power Input|https://www.lcsc.com/product-detail/Screw-span-style-background-color-ff0-terminal-span_MAX-MX129-5-08-02P-GN01-Cu-Y-A_C5188485.html|
 |Automotive Mini-Blade Fuse Holder|1|Takes [Mini Automotive Fuses](https://www.keyelco.com/product.cfm/product_id/1376)|https://www.lcsc.com/product-detail/Fuse-Holders_XFCN-XF-506P_C492610.html|
-|5A Mini Automotive fuse|1|For circuit safety|https://www.lcsc.com/product-detail/Automotive-Fuses_Littelfuse-0297005-WXNV_C151093.html|
+|2A Mini Automotive fuse|1|For circuit safety|https://www.lcsc.com/product-detail/Automotive-Fuses_Littelfuse-0297002-WXNV_C151091.html|
 |DC-DC 3A buck converter|1|Pick the 5V version|https://www.aliexpress.com/item/1005007031557776.html|
 |LDO 800MA DC 5V to 3.3V buck converter|1|They come with right angle pin headers, you have to swap for straight pins|https://www.aliexpress.com/item/1005007792706354.html|
 |DRV8837 2 Way DC H-Bridge|2|Pick the version with 2 drivers on the board|https://www.aliexpress.com/item/1005007587993921.html|
@@ -33,7 +33,7 @@ This board was made with modularity in mind, so you'll need to buy those modules
 |Pin header|1|Only needed if using CAN bus _and_ this will be the last device on it|https://www.lcsc.com/product-detail/Pin-Headers_XFCN-PZ254V-11-02P_C492401.html|
 |Schottky diode|2|You can reallistically use whatever through hole Schottky diode you have, even the BAT85 that used to be used on magnetic probes on old VORON releases|https://www.lcsc.com/product-detail/Schottky-Diodes_STMicroelectronics-BAT48_C283476.html|
 |120 ohms resistor|1|Only needed if using CAN bus _and_ this will be the last device on it|https://www.lcsc.com/product-detail/Through-Hole-Resistors_Vishay-Intertech-MBB02070C1200FCT00_C1364429.html|
-|Switch|1|For selecting USB ou buck converter power|https://www.lcsc.com/product-detail/Slide-Switches_E-Switch-EG1224_C273395.html|
+|Switch|1|For selecting USB ou buck converter power|https://www.lcsc.com/product-detail/Slide-Switches_Korean-Hroparts-Elec-K3-1204D_C145861.html|
 |Raspberry Pi Pico, or...|1|MCU (Pick one)|https://www.aliexpress.com/item/1005003708090298.html|
 |Raspberry Pi Pico 2, or...|1|MCU (Pick one)|https://www.aliexpress.com/item/1005008117237405.html|
 |STM32F401 BlackPill|1|MCU (Pick one)|https://www.aliexpress.com/item/1005006127461676.html|
@@ -43,6 +43,7 @@ This board was made with modularity in mind, so you'll need to buy those modules
 - Raspberry Pi Pico STEP file made by Raspberry Pi Foundation; obtained at https://datasheets.raspberrypi.com/pico/Pico-R3-step.zip
 - Blackpill STM32F401CCU6 STEP model made by Adam Valent, published on GrabCAD by user Zawisza on August 22nd, 2022; obtained at https://grabcad.com/library/blackpill-stm32f401ccu6-1
 - Mini Automotive fuse STEP model by Littelfuse, Inc.; obtained at https://www.littelfuse.com/products/fuses-overcurrent-protection/fuses/automotive-fuses/blade-fuses-shunt/mini/297/0297010-u
+- K3-1204D 3D model made by Vinícius N. Cordeiro, using the datasheet as reference. The model isn't completely accurate as it's intended just as a mockup, but the only important feature missing as two 0.5 mm high bumps at the bottom of the switch. The PCB file is already accounting for that.
 
 ## Acknowledgements
 - [Robert Klotz](https://github.com/ArmoredTurtle) for creating the amazing BoxTurtle project (I'm anxiously awaiting for the 8-Track!);
