@@ -41,3 +41,5 @@
   - Revision 2.6.1:
     - adjusted some silkscreen markings
     - uploaded updated Gerber files
+- 2025-03-04:
+  - Added the JST XH connectors to the BOM
