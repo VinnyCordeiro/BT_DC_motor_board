@@ -35,6 +35,9 @@
     - uploaded Rev. 2.5 Gerber files
 - 2025-03-03:
   - Revision 2.6:
-    - corrected the footprint for the 24V to 5V buck converter module again: Aliexpress finally delivered it and I could finally use it on a printed mock-up to get the real dimensions (as originally I was only guessing it using photos as a reference. It was pretty close, but innacurate enough so I had to change it)
+    - corrected the footprint for the 24V to 5V buck converter module again: Aliexpress finally delivered it and I could use it on a printed mock-up to get the real dimensions (as originally I was only guessing it using photos as a reference. It was pretty close, but innacurate enough so I had to change it)
     - changed the switch for 5V source selection for a model that has both a smaller footprint and a bigger current capacity
     - changed all hole diameters for pin sockets
+  - Revision 2.6.1:
+    - adjusted some silkscreen markings
+    - uploaded updated Gerber files
