@@ -43,3 +43,9 @@
     - uploaded updated Gerber files
 - 2025-03-04:
   - Added the JST XH connectors to the BOM
+- 2026-04-26
+  - Revision 2.6.2:
+    - adjusted the position of the sockets for the buck converter
+    - changed the endstops to follow the same pinout as the AFC Lite
+    - uploaded updated Gerber files
+    - corrected typo on README.md
