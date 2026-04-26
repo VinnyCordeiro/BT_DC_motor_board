@@ -45,7 +45,7 @@ This board was made with modularity in mind, so you'll need to buy those modules
 - Raspberry Pi Pico STEP file made by Raspberry Pi Foundation; obtained at https://datasheets.raspberrypi.com/pico/Pico-R3-step.zip
 - Blackpill STM32F401CCU6 STEP model made by Adam Valent, published on GrabCAD by user Zawisza on August 22nd, 2022; obtained at https://grabcad.com/library/blackpill-stm32f401ccu6-1
 - Mini Automotive fuse STEP model by Littelfuse, Inc.; obtained at https://www.littelfuse.com/products/fuses-overcurrent-protection/fuses/automotive-fuses/blade-fuses-shunt/mini/297/0297010-u
-- K3-1204D 3D model made by Vinícius N. Cordeiro, using the datasheet as reference. The model isn't completely accurate as it's intended just as a mockup, but the only important feature missing as two 0.5 mm high bumps at the bottom of the switch. The PCB file is already accounting for that.
+- K3-1204D 3D model made by Vinícius N. Cordeiro, using the datasheet as reference. The model isn't completely accurate as it's intended just as a mockup, but the only important feature missing are two 0.5 mm high bumps at the bottom of the switch. The PCB file is already accounting for that.
 
 ## Acknowledgements
 - [Robert Klotz](https://github.com/ArmoredTurtle) for creating the amazing BoxTurtle project (I'm anxiously awaiting for the 8-Track!);
