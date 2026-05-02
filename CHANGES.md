@@ -49,3 +49,8 @@
     - changed the endstops to follow the same pinout as the AFC Lite
     - uploaded updated Gerber files
     - corrected typo on README.md
+- 2026-05-02
+  - Revision 2.6.3:
+    - added a solder jumper to allow usage of the board with CAN bus (terrible oversight that only now was caught)
+    - updated some of the silkscreen
+    - uploaded updated Gerber files
