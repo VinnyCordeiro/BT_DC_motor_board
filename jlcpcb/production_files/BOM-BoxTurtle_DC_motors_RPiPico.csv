@@ -16,3 +16,6 @@ K3-1204D,SW13,K3-1204D,C145861,1
 Power input,"J1,J2",PinSocket_1x02_P2.54mm_Vertical,C49661,2
 Power output,"J3,J4",PinSocket_1x02_P2.54mm_Vertical,C49661,2
 Screw_Terminal_01x02,J14,TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal,C5188485,1
+Raspberry Pi Pico,U1,Pico,,1
+Black Pill STM32F401,U2,STM32F401 Black Pill,,1
+Jumper_2_Small_Open,JP2,SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm,,1
