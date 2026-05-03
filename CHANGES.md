@@ -45,12 +45,18 @@
   - Added the JST XH connectors to the BOM
 - 2026-04-26
   - Revision 2.6.2:
-    - adjusted the position of the sockets for the buck converter
+    - adjusted the footprint for the 24V to 5V buck converter module yet again
     - changed the endstops to follow the same pinout as the AFC Lite
     - uploaded updated Gerber files
     - corrected typo on README.md
 - 2026-05-02
   - Revision 2.6.3:
-    - added a solder jumper to allow usage of the board with CAN bus (terrible oversight that only now was caught)
+    - added a solder jumper to allow usage of the board with CAN bus while powered by the 24V to 5V buck converter module (terrible oversight that only now was caught)
     - updated some of the silkscreen
     - uploaded updated Gerber files
+- 2026-05-03
+  - Revision 2.6.4:
+    - removed the 120 ohms resistor and the headers for it as they aren't needed, the CAN bus transceiver module already includes a resistor and the headers for a jumper to activate it
+    - turned the DC motors connectors 180 degrees, so it doesn't trigger my OCD anymore and are aligned with the endstop connectors
+    - updated some of the silkscreen, including OSHW and KiCad logos
+    - made some clarifications on older entries of CHANGES.md
