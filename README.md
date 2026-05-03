@@ -35,7 +35,7 @@ This board was made with modularity in mind, so you'll need to buy those modules
 |Schottky diode|2|You can reallistically use whatever through hole Schottky diode you have, even the BAT85 that used to be used on magnetic probes on old VORON releases|https://www.lcsc.com/product-detail/Schottky-Diodes_STMicroelectronics-BAT48_C283476.html|
 |Switch|1|For selecting USB ou buck converter power|https://www.lcsc.com/product-detail/Slide-Switches_Korean-Hroparts-Elec-K3-1204D_C145861.html|
 |Raspberry Pi Pico, or...|1|MCU (Pick one)|https://www.aliexpress.com/item/1005003708090298.html|
-|Raspberry Pi Pico 2, or...|1|MCU (Pick one)|https://www.aliexpress.com/item/1005008117237405.html|
+|Raspberry Pi Pico 2, or...|1|MCU (Pick one)|https://pt.aliexpress.com/item/1005005714757487.html|
 |STM32F401 BlackPill|1|MCU (Pick one)|https://www.aliexpress.com/item/1005006127461676.html|
 
 ## Attributions
