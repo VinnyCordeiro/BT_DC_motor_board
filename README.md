@@ -34,7 +34,6 @@ This board was made with modularity in mind, so you'll need to buy those modules
 |JST XH 2 pins|4|To connect the DC motors|https://www.lcsc.com/product-detail/Wire-To-Board-Connector_JST-B2B-XH-A-LF-SN_C158012.html|
 |JST XH 3 pins|12|To connect the endstops|https://www.lcsc.com/product-detail/Wire-To-Board-Connector_JST-B3B-XH-A-LF-SN_C144394.html|
 |Schottky diode|2|You can reallistically use whatever through hole Schottky diode you have, even the BAT85 that used to be used on magnetic probes on old VORON releases|https://www.lcsc.com/product-detail/Schottky-Diodes_STMicroelectronics-BAT48_C283476.html|
-|120 ohms resistor|1|Only needed if using CAN bus _and_ this will be the last device on it|https://www.lcsc.com/product-detail/Through-Hole-Resistors_Vishay-Intertech-MBB02070C1200FCT00_C1364429.html|
 |Switch|1|For selecting USB ou buck converter power|https://www.lcsc.com/product-detail/Slide-Switches_Korean-Hroparts-Elec-K3-1204D_C145861.html|
 |Raspberry Pi Pico, or...|1|MCU (Pick one)|https://www.aliexpress.com/item/1005003708090298.html|
 |Raspberry Pi Pico 2, or...|1|MCU (Pick one)|https://www.aliexpress.com/item/1005008117237405.html|
@@ -56,7 +55,7 @@ This board was made with modularity in mind, so you'll need to buy those modules
 - and [clee](https://github.com/clee): you know what you did.
 
 ## LICENSE
-Copyright Vinícius N. Cordeiro 2025
+Copyright Vinícius N. Cordeiro 2025-2026
 
 This source describes Open Hardware and is licensed under the CERN-OHL-S v2 or any later version.
 You may redistribute and modify this source and make products using it under the terms of the CERN-OHL-S v2. (https://ohwr.org/cern_ohl_s_v2.txt)
