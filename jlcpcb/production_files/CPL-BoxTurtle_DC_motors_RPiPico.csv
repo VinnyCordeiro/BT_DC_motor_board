@@ -7,10 +7,10 @@ H2,MountingHole,MountingHole_3.2mm_M3,97.79,-105.41,0.0,top
 H3,MountingHole,MountingHole_3.2mm_M3,189.23,-39.37,0.0,top
 H4,MountingHole,MountingHole_3.2mm_M3,189.23,-105.41,0.0,top
 J1,Power input,PinSocket_1x02_P2.54mm_Vertical,122.047,-59.69,180.0,top
-J10,DC motor 1,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,130.83,-96.52,180.0,top
-J11,DC motor 2,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,140.99,-96.52,180.0,top
-J12,DC motor 3,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,151.15,-96.52,180.0,top
-J13,DC motor 4,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,161.31,-96.52,180.0,top
+J10,DC motor 1,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,131.25,-96.0,0.0,top
+J11,DC motor 2,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,141.25,-96.0,0.0,top
+J12,DC motor 3,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,151.25,-96.0,0.0,top
+J13,DC motor 4,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,161.5,-95.955,0.0,top
 J14,Screw_Terminal_01x02,TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal,101.6,-50.8,-90.0,top
 J15,CAN,PinSocket_1x04_P2.54mm_Vertical,162.306,-67.056,90.0,top
 J2,Power input,PinSocket_1x02_P2.54mm_Vertical,122.047,-49.53,180.0,top
@@ -21,9 +21,7 @@ J6,DRV8837 module left,PinSocket_1x08_P2.54mm_Vertical,133.35,-87.63,90.0,top
 J7,DRV8837 module right,PinSocket_1x08_P2.54mm_Vertical,133.35,-71.12,90.0,top
 J8,DRV8837 module left,PinSocket_1x08_P2.54mm_Vertical,156.21,-87.63,90.0,top
 J9,DRV8837 module right,PinSocket_1x08_P2.54mm_Vertical,156.21,-71.12,90.0,top
-JP1,Jumper_2_Small_Open,PinHeader_1x02_P2.54mm_Vertical,153.035,-65.405,90.0,top
 JP2,Jumper_2_Small_Open,SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm,164.2,-48.65,-90.0,top
-R1,120Ω,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,157.48,-57.531,90.0,top
 SW1,Conn_01x03,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,99.0,-63.5,0.0,top
 SW10,Conn_01x03,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,110.5,-84.5,0.0,top
 SW11,Conn_01x03,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,110.5,-91.5,0.0,top

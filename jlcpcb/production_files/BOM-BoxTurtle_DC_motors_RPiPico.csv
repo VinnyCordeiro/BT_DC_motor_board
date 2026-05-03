@@ -1,5 +1,4 @@
 Comment,Designator,Footprint,LCSC,Quantity
-120Ω,R1,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,C173141,1
 AMS1117 module,J5,PinSocket_1x03_P2.54mm_Vertical,C146243,1
 BAT85,"D1,D2",D_DO-35_SOD27_P7.62mm_Horizontal,C3312828,2
 CAN,J15,PinSocket_1x04_P2.54mm_Vertical,C2718488,1
@@ -11,7 +10,6 @@ DC motor 4,J13,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,C158012,1
 DRV8837 module left,"J6,J8",PinSocket_1x08_P2.54mm_Vertical,C27438,2
 DRV8837 module right,"J7,J9",PinSocket_1x08_P2.54mm_Vertical,C27438,2
 Fuse_Small,F1,XF-506P,C492610,1
-Jumper_2_Small_Open,JP1,PinHeader_1x02_P2.54mm_Vertical,C492401,1
 K3-1204D,SW13,K3-1204D,C145861,1
 Power input,"J1,J2",PinSocket_1x02_P2.54mm_Vertical,C49661,2
 Power output,"J3,J4",PinSocket_1x02_P2.54mm_Vertical,C49661,2
